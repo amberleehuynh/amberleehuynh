@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey, I'm Amberlee 👋  
+<hr>
+I'm currently a 3rd year Mathematics-Computer Science major at UCSD doing front-end development and UI/UX on the side. Other than coding, I spend most of my time drawing, skating, and liking every corgi picture I see. Thanks for visiting my profile! 
 
-<!--
-**amberleehuynh/amberleehuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
