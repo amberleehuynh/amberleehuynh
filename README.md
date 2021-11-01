@@ -5,10 +5,10 @@ I'm currently a 3rd year Mathematics-Computer Science major at UCSD doing front-
 You can find me on my social media links: <br>
 <a href="https://www.linkedin.com/in/amberlee-huynh/" rel="nofollow">
   <strong>LinkedIn</strong>
-</a>~
+</a>|
 <a href="mailto:ajh003@ucsd.edu" rel="nofollow">
   <strong>Email</strong>
-</a>~
+</a>|
 <a href="https://github.com/amberleehuynh" rel="nofollow">
   <strong>GitHub</strong>
 </a> 
