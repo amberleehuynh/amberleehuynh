@@ -1,5 +1,5 @@
 ### Hey, I'm Amberlee 👋  <hr>
-I'm currently a 3rd year Mathematics-Computer Science major at UCSD doing front-end development and UI/UX on the side. Other than coding, I spend most of my time drawing, skating, and dogspotting (especially corgis). Thanks for visiting my profile! 
+I'm currently a 4th year Mathematics-Computer Science major at UCSD doing front-end development and UI/UX on the side. Other than coding, I spend most of my time drawing, skating, and dogspotting (especially corgis). Thanks for visiting my profile! 
 
 ### Let's Connect! 💌 <hr>
 You can find me on my social media links: <br>
